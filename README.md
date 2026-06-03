@@ -184,7 +184,5 @@ NEXT_PUBLIC_API_URL=http://localhost:8000
 
 ---
 
-## Interview Questions & Answers
 
-See `docs/interview-prep.md` for comprehensive interview Q&A.
 
